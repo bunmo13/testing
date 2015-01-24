@@ -6,5 +6,5 @@ class Hello
   {
      Console.WriteLine("Hello, World!");
   }
-  //hello
+  //how's life
 }
